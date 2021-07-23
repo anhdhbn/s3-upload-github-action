@@ -1,0 +1,9 @@
+name: "S3 File Upload"
+description: "Upload a file to an S3 bucket."
+author: "anhdh"
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: arrow-up
+  color: green
